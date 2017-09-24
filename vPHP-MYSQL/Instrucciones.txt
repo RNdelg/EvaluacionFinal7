@@ -1,0 +1,6 @@
+1. Crea la base de datos con el archivo “agenda.sql”
+
+2. (opcional) ejecuta el archivo “client/crearusuarios.php”
+
+3. Monta el proyecto en el servidor local y ejecutalo en el navegador
+   usa por ejemplo este user y pass (pgarcia@gmail.com y 123).
